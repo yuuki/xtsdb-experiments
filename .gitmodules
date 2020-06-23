@@ -1,0 +1,3 @@
+[submodule "influxdb-comparisons"]
+	path = influxdb-comparisons
+	url = https://github.com/yuuki/influxdb-comparisons.git
