@@ -1,2 +1,1 @@
-# xtsdb-expriments
-
+# xtsdb-experiments
